@@ -12,7 +12,7 @@ Personal
 
 Work
 
--[ ] checkbox
+- [ ] checkbox
 
 
 
