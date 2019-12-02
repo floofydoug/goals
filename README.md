@@ -11,7 +11,7 @@ Work
 
 - [ ] Deploy V1 into production
 - [ ] Lead designs from ideation into V2 for graphical representation of conversation tree structures
-- [ ] share meaningful learnings at knowledge meetings
+- [ ] share meaningful learnings at knowledge meetings. be able to disseminate information more easily to others. 
 - [ ] Meet more people on the business side. 
 - [ ] Do more things right the first time; less tech debt. 
 - [ ] Set a better work schedule. 
